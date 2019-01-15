@@ -11,7 +11,6 @@ public class labTwo_03 {
 		double width;
 		double height;
 		String choice = "y";
-
 		    while (choice.equalsIgnoreCase("y")) {
 
 		    	System.out.println("Welcome to Grand Circus' Room Detail Generator");
@@ -29,7 +28,7 @@ public class labTwo_03 {
 				
 				height = scnr.nextDouble();				
 				
-// time delay for fun
+// time delay for fun that Luke came up with 
 		        try {
 		            Thread.sleep(1000);
 
@@ -45,7 +44,7 @@ public class labTwo_03 {
 
 // round to max of 2 decimal places 
 				
-				DecimalFormat df = new DecimalFormat("0.0000");
+				DecimalFormat df = new DecimalFormat("0.00");
 				
 				System.out.println("");
 				
