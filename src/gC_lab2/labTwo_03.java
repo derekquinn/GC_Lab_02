@@ -30,7 +30,7 @@ public class labTwo_03 {
 				
 // time delay for fun that Luke came up with asdfasdfsdf
 		        try {
-		            Thread.sleep(2000);
+		            Thread.sleep(3000);
 
 		        }
 		        catch(InterruptedException e) {
