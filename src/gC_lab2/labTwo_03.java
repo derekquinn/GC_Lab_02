@@ -28,9 +28,9 @@ public class labTwo_03 {
 				
 				height = scnr.nextDouble();				
 				
-// time delay for fun that Luke came up with 
+// time delay for fun that Luke came up with asdfasdfsdf
 		        try {
-		            Thread.sleep(1000);
+		            Thread.sleep(2000);
 
 		        }
 		        catch(InterruptedException e) {
